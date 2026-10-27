@@ -1,0 +1,17 @@
+{
+  "name": "Langit Waktu",
+  "short_name": "Langit Waktu",
+  "description": "Hitung mundur waktu hidup dan garis waktu tujuan.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#04050d",
+  "theme_color": "#04050d",
+  "lang": "id",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
